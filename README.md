@@ -30,4 +30,5 @@ Install these packeges throw the terminal:
 -PyMySQL==0.9.3
 
 
+-----------------
 @made by yaroslav
