@@ -15,7 +15,7 @@ To run this bot you need to do these actions in the terminal:
 LIBRARIES
 ---------
 
-Install these packeges throw the terminal:
+Install these packeges through the terminal:
 
 -aiogram==2.9.2
 
